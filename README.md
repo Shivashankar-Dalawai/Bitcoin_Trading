@@ -1,4 +1,5 @@
 🚀 Bitcoin Trading — Enhancing Speed and Accuracy
+
 📘 Overview
 
 This project focuses on predictive analysis and trading optimization in the Bitcoin market. It leverages machine learning and deep learning techniques to improve both speed and accuracy of trade decisions, helping traders identify profitable entry and exit points in real time.
